@@ -1,0 +1,25 @@
+body{
+    background: linear-gradient(to right, #ada996, #f2f2f2, #dbdbdb, #eaeaea);
+}
+
+#login_button{
+    border-radius: 10px;
+    border-color: rgb(30, 0, 255);
+    font-size: 20px;
+    color: rgb(255, 255, 255);
+    font-weight: bold;
+    cursor: pointer;
+    padding: 10px;
+    width: 80%;
+    border-width: 3px;
+}
+
+.logo{
+    width: 50px;
+    font-weight: bold; 
+}
+.header{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+}
+
